@@ -1,0 +1,24 @@
+
+# Ignore NetBeans private files
+nbproject/private/
+
+# Ignore build and dist folders
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Ignore compiled classes
+*.class
+
+# Ignore Gradle cache folders (if using Gradle)
+.gradle/
+build/
+.nb-gradle/
+
+# Ignore Maven target folder (if using Maven)
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
